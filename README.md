@@ -1,2 +1,4 @@
 # lupin
-[Watch the video](./video3322749622.mp4)
+<video src="./video3322749622.mp4" controls width="600">
+  
+</video>
