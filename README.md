@@ -1,4 +1,3 @@
 # lupin
-<video src="./video3322749622.mp4" controls width="600">
-  
-</video>
+[![Watch the video](https://img.youtube.com/vi/YcXXOrmJjTk/hqdefault.jpg)](https://www.youtube.com/watch?v=YcXXOrmJjTk)
+
